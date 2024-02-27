@@ -1,2 +1,2 @@
 # Were-App
-#  this app used randomly chat someone 
+#  this app used to randomly  chat someone 
